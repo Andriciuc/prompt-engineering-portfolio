@@ -1,2 +1,3 @@
-# prompt-engineering-portfolio
-These are examples of prompts created by me.
+# Prompt Engineering Portfolio
+
+The following project is a presentation of the prompts I have created to be used by AI's.
